@@ -1,0 +1,20 @@
+.total {
+    position: relative;
+    padding: 40px;
+    /* border: 2px solid seagreen; */
+}
+.sides {
+    position: relative;
+    padding: 40px;
+    /* border: 2px solid magenta; */
+}
+.dice-number {
+    position: relative;
+    padding: 40px;
+    /* border: 2px solid salmon; */
+}
+.rolls-and-reset {
+    position: relative;
+    padding: 40px;
+    /* border: 2px solid mediumpurple; */
+}
